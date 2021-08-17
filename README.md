@@ -1,5 +1,4 @@
-Hello, I’m @SirEctor
-- New to Github
+Hello, I’m @SirEctor (Ebenezer)
 - Python/Node.js/p5.js
 - https://www.codewars.com/users/et246/badges/micro
 - Front-end/back-end/I like messing around and trying to animate things
